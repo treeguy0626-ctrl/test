@@ -1,0 +1,10 @@
+>>> CPE 3103 - GROUP 6 <<<
+to run the program
+[make sure "foodhubzzz.py", "algoz.py", and "tempz.py" are in the folder]
+
+1.) open the "foodhubzzz.py"
+2.) install libraries (already installed in the .venv, but just for good measure)
+	pip install fastapi uvicorn
+3.) run the program
+4.) press the link/ip address
+5.) that should open a browser and display our website
